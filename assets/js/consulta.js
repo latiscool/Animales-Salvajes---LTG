@@ -14,7 +14,7 @@ let animales = (() => {
 
 export default animales;
 // //PROBANDO JSON
-// // ---------------
+// // ----------------
 // const url =
 // 'https://raw.githubusercontent.com/latiscool/Animales-Salvajes---LTG/main/animales.json';
 
