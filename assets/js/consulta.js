@@ -1,7 +1,6 @@
 //IIFE
 let animales = (() => {
-  const urlBase =
-    'https://raw.githubusercontent.com/latiscool/Animales-Salvajes-LTG/main/animales.json';
+  const urlBase = '/animales.json';
 
   //funcion asincrona async/await
   const getData = async () => {
@@ -14,7 +13,7 @@ let animales = (() => {
 
 export default animales;
 // //PROBANDO JSON
-// // ----------------
+// // -------------git---
 // const url =
 // 'https://raw.githubusercontent.com/latiscool/Animales-Salvajes---LTG/main/animales.json';
 
