@@ -1,3 +1,3 @@
 # Animales-Salvajes-LTG
 
-VER PUBLICADO https://latiscool.github.io/Animales-Salvajes-LTG/
+VER PUBLICADO Funcionando OK EN FORMA LOCAL LA URL
