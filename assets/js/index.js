@@ -77,11 +77,11 @@ const reloadTable = () => {
   animalitosVacio.forEach((a, i) => {
     animalPlantilla.innerHTML += `
     <div class="m-2">
-    <div data-fighter="${a.getNombre()}">
+   
     <div class="card">
     <div  style="width: 10rem;">
     <img src="assets/imgs/${
-      a.img
+      a.getImg
     }" alt="animal_svg" width="100%" height="200" " />
     <div class="py-1" style="background-color: grey;">
     <button class="btn btn-warning mt-1" onclick="activarHabilidad('${i}')">Sonido!</button>
